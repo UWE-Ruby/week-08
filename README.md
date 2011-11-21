@@ -19,11 +19,15 @@ With Rails on the horizon it is important to spend a moment introducing you to o
 
 #### Reading
 
-* Exception
-* RSpec Testing Expections
-* ActiveRecord Migrations
-* ActiveRecord Validations
-* ActiveRecord Associations
+* Programming Ruby, Chapter 10
+* RSpec Testing [Exceptions](https://www.relishapp.com/rspec/rspec-expectations/docs/built-in-matchers/raise-error-matcher)
+
+#### Further Reading
+
+* [Exceptional Ruby](http://exceptionalruby.com/)
+* [ActiveRecord Migrations](http://guides.rubyonrails.org/migrations.html)
+* [ActiveRecord Validations](http://guides.rubyonrails.org/active_record_validations_callbacks.html)
+* [ActiveRecord Associations](http://guides.rubyonrails.org/association_basics.html)
 
 ## Exercise
 
